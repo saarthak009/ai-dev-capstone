@@ -24,3 +24,8 @@ This repository contains my capstone project for the AI-assisted Development Tra
 ## Author
 
 Sarthak Pal
+## Getting Started
+
+1. Clone the repository.
+2. Run `npm install`.
+3. Start building the project.
